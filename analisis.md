@@ -16,3 +16,6 @@
         Elegir portada estática
         Añadir CSS Personalizado
 * Posee un Custom Post Type "Listing" para las propiedades.
+* Errores: 
+        Mal ruteado el archivo "sponsors.php"
+        Archivo dommy.png no existe
