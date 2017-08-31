@@ -2,11 +2,11 @@
 
 ## Plantilla Avenue
 
-**Page Templates:** 
+#### Page Templates: 
 
 La plantilla no presenta Page Templates
         
-**Plugins:**
+#### Plugins:
 
 La plantilla utiliza los plugins;
 
@@ -14,7 +14,7 @@ La plantilla utiliza los plugins;
  - Slider
  - Drop Down Custom Taxonomy
 
-**Opciones del Tema: **
+#### Opciones del Tema:
  
 *Capacidad de personalización para:*
 
@@ -33,7 +33,7 @@ La plantilla utiliza los plugins;
  - Agregar banner (imagen, alt, url y enlace). Hasta 4.
  - Posee un Custom Post Type "Listing" para las propiedades.
 
-**Errores:** 
+#### Errores:
 
  - Mal ruteado el archivo "sponsors.php"
  - Archivo dummy.jpg no existe
