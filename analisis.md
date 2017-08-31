@@ -1,6 +1,6 @@
-## Ejercicio - Interpretando la plantilla
+### Ejercicio - Interpretando la plantilla
 
-**<u>Plantilla Avenue</u>**
+## Plantilla Avenue
 
 **Page Templates:** 
 
